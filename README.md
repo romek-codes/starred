@@ -238,6 +238,8 @@
 
 ## Lua 
 
+- [tylerdak/php-tinker.nvim](https://github.com/tylerdak/php-tinker.nvim) - Use PHP Tinker (Psysh) from within Neovim
+- [jesses-code-adventures/bruno.nvim](https://github.com/jesses-code-adventures/bruno.nvim) - nvim plugin providing tree-sitter integration for .bru files
 - [kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim) - A Neovim plugin enabling you to solve LeetCode problems.
 - [dundalek/lazy-lsp.nvim](https://github.com/dundalek/lazy-lsp.nvim) - Neovim plugin to auto install LSP servers
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
