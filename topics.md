@@ -1360,6 +1360,7 @@
 
 ## others 
 
+- [nvzone/typr](https://github.com/nvzone/typr) - Most Beautiful Typing practice plugin for Neovim with dashboard
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
 - [unsend-dev/unsend](https://github.com/unsend-dev/unsend) - Open source alternative to Resend,Sendgrid, Postmark etc.
 - [tylerdak/php-tinker.nvim](https://github.com/tylerdak/php-tinker.nvim) - Use PHP Tinker (Psysh) from within Neovim
