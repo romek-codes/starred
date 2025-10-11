@@ -217,6 +217,7 @@
 - [windows](#windows)
 - [xcode](#xcode)
 - [xml](#xml)
+- [youtube](#youtube)
 - [zsh](#zsh)
 
 ## 3d 
@@ -1472,7 +1473,6 @@
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) - A code generation tool for Laravel developers.
 - [lenosisnickerboa/csgosl](https://github.com/lenosisnickerboa/csgosl) - A CSGO server launcher, one-click install & run
-- [offish/twitchtube](https://github.com/offish/twitchtube) - Twitch YouTube bot. Automatically make video compilations of the most viewed Twitch clips and upload them to YouTube using Python 3.
 - [open-duelyst/duelyst](https://github.com/open-duelyst/duelyst) - Duelyst is a digital collectible card game and turn-based strategy hybrid, developed by Counterplay Games.
 - [beyondcode/laravel-er-diagram-generator](https://github.com/beyondcode/laravel-er-diagram-generator) - Generate entity relation diagrams from your Laravel model files.
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
@@ -2137,6 +2137,12 @@
 ## xml 
 
 - [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) - Create and generate sitemaps with ease
+
+## youtube 
+
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
+- [offish/twitchtube](https://github.com/offish/twitchtube) - Twitch YouTube bot. Automatically make video compilations of the most viewed Twitch clips and upload them to YouTube using Python 3.
 
 ## zsh 
 
