@@ -351,7 +351,7 @@
 - [laravel-zero/laravel-zero](https://github.com/laravel-zero/laravel-zero) - A PHP framework for console artisans
 - [awssat/laravel-visits](https://github.com/awssat/laravel-visits) - 📊 Laravel Visits is a counter that can be attached to any model to track its visits using Redis or Eloquent. (with tags, IP protection and caching)
 - [filamentphp/filament](https://github.com/filamentphp/filament) - A powerful open source UI framework for Laravel • Build and ship admin panels & apps fast with Livewire
-- [saleem-hadad/larecipe](https://github.com/saleem-hadad/larecipe) - ✏️ Write and ship beautiful documentation with your Laravel applications using MarkDown
+- [saleem-hadad/larecipe](https://github.com/saleem-hadad/larecipe) - ✏️ Write gorgeous documentation for your products using Markdown inside your Laravel app
 - [larastan/larastan](https://github.com/larastan/larastan) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [JayBizzle/Crawler-Detect](https://github.com/JayBizzle/Crawler-Detect) - 🕷 CrawlerDetect is a PHP class for detecting bots/crawlers/spiders via the user agent
 - [inertiajs/pingcrm-svelte](https://github.com/inertiajs/pingcrm-svelte) - A demo application to illustrate how Inertia.js works.
