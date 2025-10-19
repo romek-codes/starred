@@ -912,7 +912,6 @@
 - [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 - [kaisermann/svelte-i18n](https://github.com/kaisermann/svelte-i18n) - Internationalization library for Svelte
 - [laravel-zero/laravel-zero](https://github.com/laravel-zero/laravel-zero) - A PHP framework for console artisans
-- [filamentphp/filament](https://github.com/filamentphp/filament) - A powerful open source UI framework for Laravel • Build and ship admin panels & apps fast with Livewire
 - [JayBizzle/Crawler-Detect](https://github.com/JayBizzle/Crawler-Detect) - 🕷 CrawlerDetect is a PHP class for detecting bots/crawlers/spiders via the user agent
 - [beyondcode/laravel-query-detector](https://github.com/beyondcode/laravel-query-detector) - Laravel N+1 Query Detector
 - [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
