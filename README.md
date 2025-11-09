@@ -307,7 +307,7 @@
 - [firebase/php-jwt](https://github.com/firebase/php-jwt) - PHP package for JWT
 - [PHP-Open-Source-Saver/jwt-auth](https://github.com/PHP-Open-Source-Saver/jwt-auth) - 🔐 JSON Web Token Authentication for Laravel & Lumen
 - [kargnas/laravel-ai-translator](https://github.com/kargnas/laravel-ai-translator) - High quality automatic translate your language files into many languages using AI like Claude, GPT and etc.
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [leventcz/laravel-top](https://github.com/leventcz/laravel-top) - 🚀 Real-time monitoring from the command line for Laravel applications.
 - [mis3085/tiktoken-for-laravel](https://github.com/mis3085/tiktoken-for-laravel) - A tiktoken-php wrapper for Laravel
 - [spatie/laravel-markdown](https://github.com/spatie/laravel-markdown) - A highly configurable markdown renderer and Blade component for Laravel
@@ -568,7 +568,7 @@
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Cross-Platform Keystroke Launcher
 - [esm7/obsidian-vimrc-support](https://github.com/esm7/obsidian-vimrc-support) - A plugin for the Obsidian.md note-taking software
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click ins
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
