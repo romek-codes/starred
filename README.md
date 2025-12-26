@@ -596,7 +596,7 @@
 - [kaisermann/svelte-i18n](https://github.com/kaisermann/svelte-i18n) - Internationalization library for Svelte
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity
 - [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte.
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A lightweight, dependency-free JavaScript library for guiding user focus across the page.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
