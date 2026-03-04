@@ -71,6 +71,7 @@
 - [emoji](#emoji)
 - [es6](#es6)
 - [eslint](#eslint)
+- [fastapi](#fastapi)
 - [finance](#finance)
 - [firebase](#firebase)
 - [firefox](#firefox)
@@ -742,6 +743,11 @@
 
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity
 - [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
+
+## fastapi 
+
+- [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 
 ## finance 
 
