@@ -230,6 +230,7 @@
 - [xcode](#xcode)
 - [xml](#xml)
 - [youtube](#youtube)
+- [zig](#zig)
 - [zsh](#zsh)
 
 ## 3d 
@@ -1740,7 +1741,7 @@
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 All-in-one browser automation, scraping, testing, and stealth. Works with Playwright. Lots of examples.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Browser automation for testing, scraping, and stealth. Works with Playwright. Lots of examples.
 
 ## python3 
 
@@ -2238,6 +2239,10 @@
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [offish/twitchtube](https://github.com/offish/twitchtube) - Twitch YouTube bot. Automatically make video compilations of the most viewed Twitch clips and upload them to YouTube using Python 3.
+
+## zig 
+
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 
 ## zsh 
 
