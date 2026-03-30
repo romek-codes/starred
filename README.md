@@ -306,7 +306,7 @@
 - [malikad778/nexus-inventory](https://github.com/malikad778/nexus-inventory) - The ultimate Laravel package for multi-channel inventory synchronization. Connect Shopify, WooCommerce, Amazon, and Etsy to Laravel with real-time webhooks, job queues, and a unified API.
 - [Propaganistas/Laravel-Disposable-Email](https://github.com/Propaganistas/Laravel-Disposable-Email) - Disposable email address validator for Laravel
 - [QodeNL/Laravel-Posthog](https://github.com/QodeNL/Laravel-Posthog) - Laravel Posthog implementation
-- [marceloeatworld/plunk-laravel](https://github.com/marceloeatworld/plunk-laravel) - 
+- [marceloeatworld/plunk-laravel](https://github.com/marceloeatworld/plunk-laravel) - Laravel mail transport for Plunk API with attachments, event tracking, email verification, templates and self-hosted support
 - [rectorphp/rector](https://github.com/rectorphp/rector) - Instant Upgrades and Automated Refactoring of any PHP 5.3+ code
 - [lorisleiva/laravel-actions](https://github.com/lorisleiva/laravel-actions) - ⚡️ Laravel components that take care of one specific task
 - [spatie/laravel-honeypot](https://github.com/spatie/laravel-honeypot) - Preventing spam submitted through forms
