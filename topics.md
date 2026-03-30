@@ -1129,6 +1129,7 @@
 
 - [malikad778/nexus-inventory](https://github.com/malikad778/nexus-inventory) - The ultimate Laravel package for multi-channel inventory synchronization. Connect Shopify, WooCommerce, Amazon, and Etsy to Laravel with real-time webhooks, job queues, and a unified API.
 - [Propaganistas/Laravel-Disposable-Email](https://github.com/Propaganistas/Laravel-Disposable-Email) - Disposable email address validator for Laravel
+- [marceloeatworld/plunk-laravel](https://github.com/marceloeatworld/plunk-laravel) - Laravel mail transport for Plunk API with attachments, event tracking, email verification, templates and self-hosted support
 - [spatie/laravel-honeypot](https://github.com/spatie/laravel-honeypot) - Preventing spam submitted through forms
 - [PHP-Open-Source-Saver/jwt-auth](https://github.com/PHP-Open-Source-Saver/jwt-auth) - 🔐 JSON Web Token Authentication for Laravel & Lumen
 - [kargnas/laravel-ai-translator](https://github.com/kargnas/laravel-ai-translator) - High quality automatic translate your language files into many languages using AI like Claude, GPT and etc.
@@ -1489,7 +1490,6 @@
 - [jesses-code-adventures/bruno.nvim](https://github.com/jesses-code-adventures/bruno.nvim) - nvim plugin providing tree-sitter integration for .bru files
 - [olafkfreund/nix-ai-help](https://github.com/olafkfreund/nix-ai-help) - Ai based nix help system from the command line.
 - [QodeNL/Laravel-Posthog](https://github.com/QodeNL/Laravel-Posthog) - Laravel Posthog implementation
-- [marceloeatworld/plunk-laravel](https://github.com/marceloeatworld/plunk-laravel) - 
 - [SimulaVR/Simula](https://github.com/SimulaVR/Simula) - Linux VR Desktop
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [bassamsdata/namu.nvim](https://github.com/bassamsdata/namu.nvim) - Flexible and sleek fuzzy picker, LSP symbol navigator, and more. inspired by Zed.
@@ -1623,6 +1623,7 @@
 ## php 
 
 - [malikad778/nexus-inventory](https://github.com/malikad778/nexus-inventory) - The ultimate Laravel package for multi-channel inventory synchronization. Connect Shopify, WooCommerce, Amazon, and Etsy to Laravel with real-time webhooks, job queues, and a unified API.
+- [marceloeatworld/plunk-laravel](https://github.com/marceloeatworld/plunk-laravel) - Laravel mail transport for Plunk API with attachments, event tracking, email verification, templates and self-hosted support
 - [rectorphp/rector](https://github.com/rectorphp/rector) - Instant Upgrades and Automated Refactoring of any PHP 5.3+ code
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [spatie/laravel-markdown](https://github.com/spatie/laravel-markdown) - A highly configurable markdown renderer and Blade component for Laravel
