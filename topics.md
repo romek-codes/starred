@@ -117,7 +117,6 @@
 - [javascript](#javascript)
 - [jquery](#jquery)
 - [json](#json)
-- [koa](#koa)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [language](#language)
@@ -456,7 +455,7 @@
 ## claude-code 
 
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
-- [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx) - The blackboard for coding agents — from idea to merge, hands-free
+- [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx) - 🏄🏼‍♂️ The blackboard for coding agents - from idea to merge, hands-free
 
 ## cli 
 
@@ -1110,10 +1109,6 @@
 - [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
 - [R3nzTheCodeGOD/R3nzSkin](https://github.com/R3nzTheCodeGOD/R3nzSkin) - Skin changer for League of Legends (LOL)
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-
-## koa 
-
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 
 ## kotlin 
 
