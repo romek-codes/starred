@@ -177,6 +177,7 @@
 
 ## HTML 
 
+- [selimacerbas/markdown-preview.nvim](https://github.com/selimacerbas/markdown-preview.nvim) - Live Markdown preview for Neovim with Mermaid diagrams, LaTeX math (KaTeX), scroll sync, and syntax highlighting. Pure Lua, zero npm dependencies.
 - [paulirish/lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed) - A faster youtube embed.
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
