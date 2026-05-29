@@ -998,7 +998,6 @@
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service.
 - [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify): eBPF-based Kubernetes Monitoring and Performance Testing
-- [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [beyondcode/laravel-websockets](https://github.com/beyondcode/laravel-websockets) - Websockets for Laravel. Done right.
 - [barryvdh/laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper) - IDE Helper for Laravel
@@ -1784,7 +1783,7 @@
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Stealthy Chromium automation that passes every bot detection test with CDP Mode. Includes E2E Testing, CAPTCHA-bypass, and a Playwright integration.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - APIs for browser automation, testing, and bypassing bot-detection. Works with Selenium, Playwright, and CDP.
 
 ## python3 
 
