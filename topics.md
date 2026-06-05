@@ -156,6 +156,7 @@
 - [open-source](#open-source)
 - [openai](#openai)
 - [osint](#osint)
+- [osint-tools](#osint-tools)
 - [others](#others)
 - [p2p](#p2p)
 - [package-manager](#package-manager)
@@ -1497,6 +1498,10 @@
 
 - [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 - [fsociety-team/fsociety](https://github.com/fsociety-team/fsociety) - A Modular Penetration Testing Framework
+
+## osint-tools 
+
+- [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 
 ## others 
 
