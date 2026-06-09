@@ -469,7 +469,7 @@
 
 ## cli 
 
-- [chojs23/concord](https://github.com/chojs23/concord) - A feature-rich TUI client for Discord, written in Rust.
+- [chojs23/concord](https://github.com/chojs23/concord) - A feature-rich TUI client for Discord
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [e-tho/iwmenu](https://github.com/e-tho/iwmenu) - Launcher-driven Wi-Fi manager for Linux
@@ -678,7 +678,7 @@
 
 ## discord 
 
-- [chojs23/concord](https://github.com/chojs23/concord) - A feature-rich TUI client for Discord, written in Rust.
+- [chojs23/concord](https://github.com/chojs23/concord) - A feature-rich TUI client for Discord
 - [Soundux/Soundux](https://github.com/Soundux/Soundux) - 🔊 A cross-platform soundboard
 - [laracord/laracord](https://github.com/laracord/laracord) - Create elegant Discord bots with the power of Laravel. 🤖
 - [Zero6992/chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) - Integrate ChatGPT into your own discord bot
@@ -1885,7 +1885,7 @@
 
 ## rust 
 
-- [chojs23/concord](https://github.com/chojs23/concord) - A feature-rich TUI client for Discord, written in Rust.
+- [chojs23/concord](https://github.com/chojs23/concord) - A feature-rich TUI client for Discord
 - [hashintel/hash](https://github.com/hashintel/hash) - 🚀  The open-source, multi-tenant platform for self-building knowledge graphs and simulation
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [Rolv-Apneseth/rofi-nerdy](https://github.com/Rolv-Apneseth/rofi-nerdy) - Nerd font icon selector plugin for rofi
@@ -2059,7 +2059,7 @@
 
 ## terminal 
 
-- [chojs23/concord](https://github.com/chojs23/concord) - A feature-rich TUI client for Discord, written in Rust.
+- [chojs23/concord](https://github.com/chojs23/concord) - A feature-rich TUI client for Discord
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [da-luce/astroterm](https://github.com/da-luce/astroterm) - A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
@@ -2094,7 +2094,7 @@
 
 ## tui 
 
-- [chojs23/concord](https://github.com/chojs23/concord) - A feature-rich TUI client for Discord, written in Rust.
+- [chojs23/concord](https://github.com/chojs23/concord) - A feature-rich TUI client for Discord
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [da-luce/astroterm](https://github.com/da-luce/astroterm) - A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
