@@ -503,7 +503,7 @@
 
 ## clojure 
 
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design platform for Product teams that need scalable collaboration.
 
 ## cloud 
 
@@ -658,7 +658,7 @@
 
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design platform for Product teams that need scalable collaboration.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
 ## developer-tools 
@@ -1558,7 +1558,6 @@
 - [myclabs/DeepCopy](https://github.com/myclabs/DeepCopy) - Create deep copies (clones) of your objects
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) - Ollama-Laravel is a Laravel package providing seamless integration with the Ollama API.
-- [GrowingGit/GitHub-English-Top-Charts](https://github.com/GrowingGit/GitHub-English-Top-Charts) - Help you discover excellent English projects and get rid of disturbing by other spoken language.
 - [lin-ycv/EverythingPowerToys](https://github.com/lin-ycv/EverythingPowerToys) - Everything search plugin for PowerToys Run
 - [NVIDIA/Stable-Diffusion-WebUI-TensorRT](https://github.com/NVIDIA/Stable-Diffusion-WebUI-TensorRT) - TensorRT Extension for Stable Diffusion Web UI
 - [stefro/laravel-lang-country](https://github.com/stefro/laravel-lang-country) - Setting the locale is not enough most of the time, some countries use more than one languages. Also, different countries use different date notation formats. This package is here to help you with that
@@ -1795,7 +1794,7 @@
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - SeleniumBase is a framework for UI Testing, Web Scraping, and Stealth. Passes every bot-detection test with CDP Mode, and extends Playwright.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A framework for browser automation, testing, and bypassing bot-detection.
 
 ## python3 
 
@@ -2161,7 +2160,7 @@
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [tjackenpacken/taskbar-groups](https://github.com/tjackenpacken/taskbar-groups) - Lightweight utility for organizing the taskbar through groups
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design platform for Product teams that need scalable collaboration.
 
 ## ui-design 
 
