@@ -122,7 +122,7 @@
 
 ## Clojure 
 
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design platform for Product teams that need scalable collaboration.
 
 ## Dart 
 
@@ -425,7 +425,6 @@
 - [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
-- [GrowingGit/GitHub-English-Top-Charts](https://github.com/GrowingGit/GitHub-English-Top-Charts) - Help you discover excellent English projects and get rid of disturbing by other spoken language.
 - [NVIDIA/Stable-Diffusion-WebUI-TensorRT](https://github.com/NVIDIA/Stable-Diffusion-WebUI-TensorRT) - TensorRT Extension for Stable Diffusion Web UI
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
@@ -479,7 +478,7 @@
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [joshnewlan/say_what](https://github.com/joshnewlan/say_what) - Using speech-to-text to fully check out during con calls
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - SeleniumBase is a framework for UI Testing, Web Scraping, and Stealth. Passes every bot-detection test with CDP Mode, and extends Playwright.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A framework for browser automation, testing, and bypassing bot-detection.
 
 ## Ruby 
 
