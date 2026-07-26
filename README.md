@@ -59,7 +59,6 @@
 
 ## Blade 
 
-- [krayin/laravel-crm](https://github.com/krayin/laravel-crm) - Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.
 - [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 
 ## C 
@@ -331,6 +330,7 @@
 - [leventcz/laravel-top](https://github.com/leventcz/laravel-top) - 🚀 Real-time monitoring from the command line for Laravel applications.
 - [mis3085/tiktoken-for-laravel](https://github.com/mis3085/tiktoken-for-laravel) - A tiktoken-php wrapper for Laravel
 - [spatie/laravel-markdown](https://github.com/spatie/laravel-markdown) - A highly configurable markdown renderer and Blade component for Laravel
+- [krayin/laravel-crm](https://github.com/krayin/laravel-crm) - Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.
 - [hirethunk/verbs](https://github.com/hirethunk/verbs) - Verbs is an event sourcing package for PHP artisans
 - [laracord/laracord](https://github.com/laracord/laracord) - Create elegant Discord bots with the power of Laravel. 🤖
 - [archtechx/tenancy](https://github.com/archtechx/tenancy) - Automatic multi-tenancy for Laravel. No code changes needed.
