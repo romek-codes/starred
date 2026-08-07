@@ -331,7 +331,7 @@
 - [leventcz/laravel-top](https://github.com/leventcz/laravel-top) - 🚀 Real-time monitoring from the command line for Laravel applications.
 - [mis3085/tiktoken-for-laravel](https://github.com/mis3085/tiktoken-for-laravel) - A tiktoken-php wrapper for Laravel
 - [spatie/laravel-markdown](https://github.com/spatie/laravel-markdown) - A highly configurable markdown renderer and Blade component for Laravel
-- [krayin/laravel-crm](https://github.com/krayin/laravel-crm) - Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.
+- [krayin/laravel-crm](https://github.com/krayin/laravel-crm) - Krayin CRM is Free & Open Source CRM Built with Laravel for Customer, Lead, and Sales Management.
 - [hirethunk/verbs](https://github.com/hirethunk/verbs) - Verbs is an event sourcing package for PHP artisans
 - [laracord/laracord](https://github.com/laracord/laracord) - Create elegant Discord bots with the power of Laravel. 🤖
 - [archtechx/tenancy](https://github.com/archtechx/tenancy) - Automatic multi-tenancy for Laravel. No code changes needed.
@@ -342,7 +342,7 @@
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - A source-available invoice, quote, project and time-tracking app built with Laravel
-- [bagisto/bagisto](https://github.com/bagisto/bagisto) - Free and open source laravel eCommerce platform
+- [bagisto/bagisto](https://github.com/bagisto/bagisto) - Open Source eCommerce Platform Built with Laravel for Enterprise-Scale Commerce Supporting 10M+ SKUs
 - [lmsqueezy/laravel](https://github.com/lmsqueezy/laravel) - A package to easily integrate your Laravel application with Lemon Squeezy.
 - [myclabs/DeepCopy](https://github.com/myclabs/DeepCopy) - Create deep copies (clones) of your objects
 - [swooletw/laravel-swoole](https://github.com/swooletw/laravel-swoole) - High performance HTTP server based on Swoole. Speed up your Laravel or Lumen applications.
