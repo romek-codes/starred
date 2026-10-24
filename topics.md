@@ -71,6 +71,7 @@
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
+- [downloader](#downloader)
 - [education](#education)
 - [electron](#electron)
 - [elixir](#elixir)
@@ -770,6 +771,10 @@
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
+
+## downloader 
+
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 
 ## education 
 
@@ -1552,7 +1557,7 @@
 - [nvzone/typr](https://github.com/nvzone/typr) - Most Beautiful Typing practice plugin for Neovim with dashboard
 - [tylerdak/php-tinker.nvim](https://github.com/tylerdak/php-tinker.nvim) - Use PHP Tinker (Psysh) from within Neovim
 - [jesses-code-adventures/bruno.nvim](https://github.com/jesses-code-adventures/bruno.nvim) - nvim plugin providing tree-sitter integration for .bru files
-- [anotherhadi/nixy](https://github.com/anotherhadi/nixy) - Nixy simplifies and unifies the Hyprland ecosystem with a minimalist & easily customizable NixOS setup, heavily focused on TUIs.
+- [anotherhadi/nixy](https://github.com/anotherhadi/nixy) - Nixy: a hardened, minimalist & dendritic NixOS configuration, built around Sway and heavily focused on TUIs.
 - [QodeNL/Laravel-Posthog](https://github.com/QodeNL/Laravel-Posthog) - Laravel Posthog implementation
 - [SimulaVR/Simula](https://github.com/SimulaVR/Simula) - Linux VR Desktop
 - [avante-corp/avante.nvim](https://github.com/avante-corp/avante.nvim) - Use your Neovim like using Cursor AI IDE!
@@ -1824,7 +1829,7 @@
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Python APIs for Web Automation, E2E Testing, and Data Scraping. CDP Mode bypasses bot-detection and handles CAPTCHAs. Includes a Stealth mode for Playwright.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Python APIs for Web Automation, Testing, and Scraping. CDP Mode launches a stealth browser that bypasses bot-detection/CAPTCHAs. Has a stealth mode for Playwright. Includes an MCP server for AI agen
 
 ## python3 
 
