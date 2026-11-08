@@ -484,7 +484,7 @@
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [joshnewlan/say_what](https://github.com/joshnewlan/say_what) - Using speech-to-text to fully check out during con calls
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Browser automation, web scraping, E2E-testing, and stealth in one SDK. SeleniumBase CDP Mode can evade bot-detection and pass CAPTCHAs.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Browser automation, web scraping, and testing. CDP Mode provides a Stealthy Chromium instance that bypasses bot-detection systems. Includes an MCP server.
 
 ## QML 
 
@@ -615,7 +615,7 @@
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 - [ianstormtaylor/superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (and TypeScript).
 - [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - A Prettier plugin for Tailwind CSS that automatically sorts classes based on our recommended class order.
-- [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
+- [ClickHouse/ClickStack](https://github.com/ClickHouse/ClickStack) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
 - [adonisjs/core](https://github.com/adonisjs/core) - AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
