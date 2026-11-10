@@ -115,7 +115,6 @@
 - [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [dhruvnnd/Windows-Rice](https://github.com/dhruvnnd/Windows-Rice) - How to rice Windows.
-- [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [thewhiteh4t/seeker](https://github.com/thewhiteh4t/seeker) - Accurately Locate Smartphones using Social Engineering
 
@@ -359,6 +358,7 @@
 - [jenssegers/agent](https://github.com/jenssegers/agent) - 👮 A PHP desktop/mobile user agent parser with support for Laravel, based on Mobiledetect
 - [cybercog/laravel-love](https://github.com/cybercog/laravel-love) - Add Social Reactions to Laravel Eloquent Models. It lets people express how they feel about the content. Fully customizable Weighted Reaction System & Reaction Type System with Like, Dislike and any o
 - [thedevdojo/voyager](https://github.com/thedevdojo/voyager) - Voyager - The Missing Laravel Admin
+- [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 - [InfyOmLabs/laravel-generator](https://github.com/InfyOmLabs/laravel-generator) - API and Admin Panel CRUD Generator for Laravel.
 - [cyrildewit/eloquent-viewable](https://github.com/cyrildewit/eloquent-viewable) - A minimalistic analytics package for Laravel with seamless view tracking for Eloquent models
 - [Intervention/image](https://github.com/Intervention/image) - PHP Image Processing
